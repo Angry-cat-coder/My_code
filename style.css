@@ -2,3 +2,18 @@ h1 {
   text-align: center;
   color: blueviolet;
 }
+.register {
+  text-align: center;
+}
+img {
+  display: block;
+  margin: 20px auto;
+  border-radius: 30px;
+}
+.buT {
+  background-color: blueviolet;
+  border-radius: 30px;
+  border: none;
+  color: aliceblue;
+  padding: 5px 10px;
+}
